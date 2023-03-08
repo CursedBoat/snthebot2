@@ -1,0 +1,16 @@
+[package]
+name = "snthebot2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dotenv = "0.15.0"
+rand = "0.8.5"
+rosu-v2 = "0.7.0"
+roux = "2.2.5"
+serenity = {version = "0.11", features = ["utils", "builder", "cache", "client", "framework", "gateway", "http", "model", "standard_framework", "rustls_backend", "collector"]}
+tokio = { version = "1.21.2", features = ["macros", "rt-multi-thread", "signal"] }
+tracing = "0.1.37"
+tracing-subscriber = "0.3.16"
