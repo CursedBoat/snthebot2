@@ -20,7 +20,7 @@ Literally just my old Discord bot, except re-written in Rust.
 ## Building from source
 **NOTE: I HAVE NOT TESTED THE PROJECT IN LINUX**
 
-Make sure you have insalled Rust (I prefer [rustup](https://rustup.rs/ "rustup"))
+Make sure you have Rust and Cargo installed (using [rustup](https://rustup.rs/ "rustup") is recommended)
 1. Clone the repo:
 ``git clone https://github.com/CursedBoat/snthebot2.git ``
 
