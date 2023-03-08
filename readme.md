@@ -18,7 +18,7 @@ Literally just my old Discord bot, except re-written in Rust.
 
 ----------
 ## Building from source
-**NOTE: I HAVE NOT TESTED THE PROJECT IN LINUX YET.**
+**NOTE: I HAVE NOT TESTED THE PROJECT IN LINUX**
 
 Make sure you have insalled Rust (I prefer [rustup](https://rustup.rs/ "rustup"))
 1. Clone the repo:
@@ -40,11 +40,11 @@ Note: the application will panic if a ``.env`` file containing the required info
 
 
 ## Q&A
-Q: Why?
+Q: Why?  
 A: I do not know.
 
-Q: What if I don't want to build from source?
+Q: What if I don't want to build from source?  
 A: A pre-built binary for Windows is provided in the [releases](https://github.com/CursedBoat/snthebot2/releases "releases")
 
-Q: Binaries for Linux?
+Q: Binaries for Linux?  
 A: What are you a Windows user? Build from source smh
