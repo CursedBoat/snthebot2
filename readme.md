@@ -29,7 +29,8 @@ Make sure you have insalled Rust (I prefer [rustup](https://rustup.rs/ "rustup")
 ```.env
 DISCORD_TOKEN=example
 PREFIX=~
-OSU_CLIENT_SECRET=example```
+OSU_CLIENT_SECRET=example
+```
 
 3. Build the project:
 ``cargo build --release``
