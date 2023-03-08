@@ -8,7 +8,7 @@ Literally just my old Discord bot, except re-written in Rust.
 
 ------------
 
-###Features
+### Features
 - Rust's guessing game, except now in Discord 👍
 - A "say" command that deletes your message after the command is invoked
 - A command where you can kill your fellow server members
@@ -17,7 +17,7 @@ Literally just my old Discord bot, except re-written in Rust.
 - Other dumb commands (see [src/commands](https://github.com/CursedBoat/snthebot2/tree/master/src/commands "src/commands") for more)
 
 ----------
-##Building from source
+## Building from source
 **NOTE: I HAVE NOT TESTED THE PROJECT IN LINUX YET.**
 
 Make sure you have insalled Rust (I prefer [rustup](https://rustup.rs/ "rustup"))
@@ -38,7 +38,7 @@ OSU_CLIENT_SECRET=example```
 Note: the application will panic if a ``.env`` file containing the required information is not found.
 
 
-##Q&A
+## Q&A
 Q: Why?
 A: I do not know.
 
