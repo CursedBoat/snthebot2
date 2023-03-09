@@ -52,7 +52,7 @@ Literally just my old Discord bot, except re-written in Rust.
 
 1. Clone and cd into the repo:
 
-``git clone https://github.com/CursedBoat/snthebot2.git``
+``git clone https://github.com/CursedBoat/snthebot2.git``  
 ``cd snthebot2``
 
   
