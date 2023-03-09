@@ -38,14 +38,14 @@ Literally just my old Discord bot, except re-written in Rust.
   
 ## Building the project:
 
-1. Clone and cd into the repo:
+1. Clone and cd into the repo:  
 ``git clone https://github.com/CursedBoat/snthebot2.git``  
 ``cd snthebot2``
 
   
 
-2. Modify the `.env` file and enter your Discord token, Osu! client secret and prefix. The file must be in the root directory (e.g. the folder containing src)
-**Example:**
+2. Modify the `.env` file and enter your Discord token, Osu! client secret and prefix. The file must be in the root directory (e.g. the folder containing src)  
+**Example:**  
 ```
 DISCORD_TOKEN=example
 PREFIX=~
